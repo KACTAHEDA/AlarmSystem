@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class _thiefMover : MonoBehaviour
+public class ThiefMover : MonoBehaviour
 {
     [SerializeField] private float _speed = 2f;
     [SerializeField] CharacterController _controller;
